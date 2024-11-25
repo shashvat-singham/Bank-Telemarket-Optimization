@@ -73,7 +73,7 @@ The bank was more effective with 20s and 60s aged group, which should be the nex
 
 <p>From the above heatmap we can see that there are some numerical features which share a high correlation between them, e.g nr.employed and euribor3m these features share a correlation value of 0.95, and euribor3m and emp.var.rate share a correlation of 0.97, which is very high compared to the other features that we see in the heatmap.
 
-:star: For more visualization and relationships between the features read our file  <a href="https://github.com/RistovaIvona/BankClassification/blob/master/DataVisualization.ipynb"><b>"Data Visualization".</b></a>
+:star: For more visualization and relationships between the features read our file  <a href="https://github.com/shashvat-singham/Bank-Telemarket-Optimization/blob/main/DataVisualization.ipynb"><b>"Data Visualization".</b></a>
 
 ## Models implementation 
 
@@ -102,7 +102,7 @@ In our case the models with parameter adjustment give some slight improvement le
 <p align="center"><a href="https://github.com/RistovaIvona/BankClassification/commit/000a3f1e33a793d9aca8660065f7c13883d67910">
 <img width="40%" height="40%" src="https://github.com/RistovaIvona/BankClassification/blob/master/documentation/classification_report.PNG"></a></p>
 
-:star: To see all the models that we have tried please read our file <a href="https://github.com/RistovaIvona/BankClassification/blob/master/Models.ipynb"><b>"Models"</b></a>.
+:star: To see all the models that we have tried please read our file <a href="https://github.com/shashvat-singham/Bank-Telemarket-Optimization/blob/main/Models.ipynb"><b>"Models"</b></a>.
 
 ## Conclusions and recommendations for future research
 
